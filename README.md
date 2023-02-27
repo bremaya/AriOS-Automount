@@ -1,9 +1,9 @@
 # Arios Automount
 Automatically mounts all local partitions upon login in GNOME. It does that without touching /etc/fstab. Automount can be enabled/disabled from the Administration menu. Originally built for AriOS http://arioslinux.org.
 
-This is a personal project, and I'm not related with AriOS Team (http://arioslinux.org). Just install in a Linux-Based System derivated of Debian (for while I only pack the .deb x64 installer)
+This is a personal project, and I'm not related with AriOS Team (http://arioslinux.org). Just install in a Linux-Based System derivated of Debian (for while I only pack the .deb x64 installer), especially created for use in Ubuntu 20.10 and +.
 
-This is packed only for Debian-Based Systems 64Bit.
+This app is packed only for use in Debian-Based liked Systems 64Bit.
 
 Any problems mail to > bremaya@gmail.com
 
